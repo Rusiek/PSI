@@ -1,0 +1,1 @@
+# Zastosowanie sparsyfikacji grafów do uczenia na grafach
